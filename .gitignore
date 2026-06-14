@@ -1,0 +1,7 @@
+# Visual Studio
+.vs/
+*.aps
+*.user
+
+x64/
+x86/
